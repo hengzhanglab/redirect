@@ -1,2 +1,2 @@
 # redirect
-redirect to https://hengzhanglab.github.io/
+Redirect https://genome.work/ to https://hengzhanglab.github.io/
